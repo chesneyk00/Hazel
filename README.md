@@ -1,2 +1,2 @@
-# HazelDuplicate
-Hazel Duplicate Game Engine
+# Hazel
+Hazel Game Engine
